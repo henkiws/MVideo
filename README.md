@@ -1,4 +1,4 @@
-# CAT CPNS
+# MVideo
 
 > This source code is an open source developed in React Native - Expo, very customizable!
 
@@ -30,11 +30,11 @@ npx expo start
 
 ### Screenshots
 
-![1](https://raw.githubusercontent.com/henkiws/MVideo/assets/screenshot/1.png)
+![1](assets/screenshot/1.png)
 
-![2](https://raw.githubusercontent.com/henkiws/MVideo/assets/screenshot/2.png)
+![2](assets/screenshot/2.png)
 
-![3](https://raw.githubusercontent.com/henkiws/MVideo/assets/screenshot/3.png)
+![3](assets/screenshot/3.png)
 
 
 ## License
