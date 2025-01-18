@@ -1,50 +1,53 @@
-# Welcome to your Expo app 👋
+# CAT CPNS
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+> This source code is an open source developed in React Native - Expo, very customizable!
 
-## Get started
+## Features:
 
-1. Install dependencies
+- Auth 
+- Play Video
+- Upload Video
+- List Video
 
-   ```bash
-   npm install
-   ```
+## Requirement
 
-2. Start the app
+- react 18.2.0
+- expo ~51.0.22
+- npm
 
-   ```bash
-    npx expo start
-   ```
 
-In the output, you'll find options to open the app in a
+## Installation [ Development mode ]
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+> [!IMPORTANT]  
+> Expo Go, a limited sandbox for trying out app development with Expo
 
 ```bash
-npm run reset-project
+git clone https://github.com/henkiws/MVideo
+cd MVideo
+npm install
+npx expo start
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### Screenshots
 
-## Learn more
+![1](https://raw.githubusercontent.com/henkiws/MVideo/assets/screenshot/1.png)
 
-To learn more about developing your project with Expo, look at the following resources:
+![2](https://raw.githubusercontent.com/henkiws/MVideo/assets/screenshot/2.png)
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+![3](https://raw.githubusercontent.com/henkiws/MVideo/assets/screenshot/3.png)
 
-## Join the community
 
-Join our community of developers creating universal apps.
+## License
+> This repository is licensed under the MIT License.
+>
+> The MIT License Do's and Dont's summary:
+>
+>Do's: Use the code in commercial applications: For example, a company can create a proprietary piece of software that includes all or part of the original open source code, then charge money for that software. Modify the code: In other words, developers can change/update the code however they’d like. Distribute copies of the code and any modifications: As long as the original copyright notice and the license itself are included, an organization can distribute and sell copies or modified versions of the code. Sublicense the code: This means you can incorporate the original code into a modification with a stricter license.
+>
+>Dont's: Can’t hold the code author(s) legally liable for any reason. Can’t delete the copyright notice and original license from your version of the code.
+>
+>Let's start contributing and make the open-source community a better place for everyone!
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<p align="center"> 
+    Developed With Love ! ❤️
+</p>
